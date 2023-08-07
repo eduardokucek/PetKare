@@ -1,0 +1,7 @@
+.vscode
+__pychache__/
+.pytest_cache
+*.pyc
+*.pyo
+venv
+db.sqlite3
